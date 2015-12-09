@@ -19,7 +19,7 @@
     
     MyLog *myLog = [MyLog new];
     [myLog logString:@"My log is working!"];
-    
+    [myLog logString:@"hahahaha"];
     
     YourLog *yourLog = [YourLog new];
     [yourLog yourLog];
