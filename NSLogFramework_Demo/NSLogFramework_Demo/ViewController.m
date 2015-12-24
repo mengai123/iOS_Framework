@@ -24,7 +24,9 @@
     YourLog *yourLog = [YourLog new];
     [yourLog yourLog];
     
-    //hahaha
+    [yourLog yourLog];
+    [yourLog yourLog];
+    [yourLog yourLog];
     
     // Do any additional setup after loading the view, typically from a nib.
 }
